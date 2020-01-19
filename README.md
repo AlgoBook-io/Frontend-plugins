@@ -1,2 +1,2 @@
 # Frontend-plugins
-frontend stuffs required for the project
+Contains Frontend stuffs required for the project
