@@ -14,14 +14,19 @@ body {
   #display {
     position: fixed;
     left: 42%;
-    top: 45%;
+    top: 30%;
     font-size: 6em;
   }
   
-  #title {
+  /*#title {
     padding: 0.2em;
     background: rgba(255, 255, 255, 0.5);
     display: block;
     text-align: center;
     font-size: 12px;
+  }*/
+
+  #frame{
+      position: fixed;
+      left: 3%;
   }
