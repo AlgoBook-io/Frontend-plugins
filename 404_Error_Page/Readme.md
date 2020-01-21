@@ -1,7 +1,8 @@
 ### 404 Error Page - [Click me to view](https://algobook-io.github.io/Frontend-plugins/loading_spinner/)
 
 ### External Resources
-_jquery_ - [http://code.jquery.com/jquery-3.4.1.js](http://code.jquery.com/jquery-3.4.1.js)
+_jquery_ - [https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js](https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js)
+_velocity_ - [https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.min.js](https://cdnjs.cloudflare.com/ajax/libs/velocity/1.2.2/velocity.min.js)
 
 ### Components
 * Javascript 
