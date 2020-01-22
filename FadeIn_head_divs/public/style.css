@@ -1,0 +1,17 @@
+.left{
+    left: -175%;
+    opacity: 0;
+}
+.right{
+    right: -175%;
+    opacity: 0;
+}
+
+.leftback{
+    left: 0%;
+    transition: left 1s ease-in;
+}
+.rightback{
+    right: 0%;
+    transition: right 1s ease-in;
+}
