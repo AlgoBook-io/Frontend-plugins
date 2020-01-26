@@ -61,7 +61,7 @@ function resetForm(withKittens){
 
         $('.terminal').append("<p class='prompt'>Redirecting You to Homepage...</p>");
         setTimeout(function() {
-            window.location.href="https://algobook-io.github.io/Integration/";
+            window.top.location.href="https://algobook-io.github.io/Integration/";
         }, 3000);
 
         var lines = $('.kittens p');
