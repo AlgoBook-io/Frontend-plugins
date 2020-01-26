@@ -57,9 +57,13 @@ function resetForm(withKittens){
                                  "<p class='prompt'>'   : |     ;   |.'      '---'          '---'      |   :   .' '   : |         `--'---'   |    |`.  </p>" +
                                  "<p class='prompt'>;   |,'     '---'                                  |   | ,'   ;   |.'                    `-- -`, ; </p>" +
                                  "<p class='prompt'>'---'                                              `----'     '---'                        '---`'</p>" +
-                                 "<p class='prompt'>                                                              </p></div>");
+                                 "</div>");
 
-        
+        $('.terminal').append("<p class='prompt'>Redirecting You to Homepage...</p>");
+        setTimeout(function() {
+            window.location.href="https://algobook-io.github.io/Integration/";
+        }, 3000);
+
         var lines = $('.kittens p');
         $.each(lines, function(index, line){
             setTimeout(function(){
